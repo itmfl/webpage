@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on Minh Tang</title>
+    <link>http://www.cis.jhu.edu/~minh/teaching/</link>
+    <description>Recent content in Teachings on Minh Tang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.cis.jhu.edu/~minh/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistical inference on graphs</title>
+      <link>http://www.cis.jhu.edu/~minh/teaching/stat_graph/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.cis.jhu.edu/~minh/teaching/stat_graph/</guid>
+      <description>Course description The course provides an introduction to and overview of current research in random graph inference, with a particular focus on spectral methods and their applications to inference for independent-edge random graphs. Topics include concentration inequalities; analysis of matrix perturbations; spectral decompositions of graph adjacency and Laplacian matrices; consistent estimation of latent variables associated to vertices; clustering, community detection, and classification in networks; and multi-sample hypothesis testing for graphs.</description>
+    </item>
+    
+  </channel>
+</rss>
