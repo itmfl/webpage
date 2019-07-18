@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://www.cis.jhu.edu/~minh/"
+baseurl = "itmfl.github.io"
 
 # Title of your site
 title = "Minh Tang"
@@ -58,16 +58,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Minh Tang"
-  role = "Associate Research Professor"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Applied Mathematics & Statistics\n Johns Hopkins University", url = "https://engineering.jhu.edu/ams/" } ]
+  organizations = [ { name = "Department of Statistics\n North Carolina State University", url = "http://statistics.sciences.ncsu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "minh@jhu.edu"
-  address = "Whitehead 306E, 3400 N. Charles St, Baltimore, Maryland, 21218, USA"
+  email = "mtang8@ncsu.edu"
+  address = "5234 SAS Hall, 2311 Stinson Drive, Raleigh, NC 27607, USA."
   office_hours = ""
   phone = ""
   skype = ""
