@@ -1,10 +1,10 @@
 +++
-title = "A central limit theorem for classical multidimensional scaling"
-date = 2018-04-02T11:24:41-04:00
+title = "Limit theorems for out-of-sample extensions of the adjacency and Laplacian spectral embeddings"
+date = 2017-09-30T11:00:21-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Gongkai Li","Minh Tang","Nicholas Charon", "Carey E. Priebe"]
+authors = ["Keith Levin", "Fred Roosta", "Minh Tang", "Michael W. Mahoney", "Carey E. Priebe"]
 
 # Publication type.
 # Legend:
@@ -18,18 +18,18 @@ authors = ["Gongkai Li","Minh Tang","Nicholas Charon", "Carey E. Priebe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Electronic Journal of Statistics"
+publication = "Journal of Machine Learning Research"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Classical multidimensional scaling (CMDS) is a widely used method in manifold learning. It takes in a dissimilarity matrix and outputs a coordinate matrix based on a spectral decomposition. However, there are not yet any statistical results characterizing the performance ofCMDS under randomness, such as perturbation analysis when the objects are sampled from a probabilistic model. In this paper, we present such an analysis given that the objects are sampled from a suitable distribution. In particular, we show that the resulting embedding gives rise to a central limit theorem for noisy dissimilarity measurements, and provide compelling simulation and real data illustration of this CLT for CMDS."
+abstract = "Performing statistical inference on collections of graphs is of import to many disciplines. Graph embedding, in which the vertices of a graph are mapped to vectors in a low-dimensional Euclidean space, has gained traction as a basic tool for graph analysis. In this paper, we describe an omnibus embedding in which multiple graphs on the same vertex set are jointly embedded into a single space with a distinct representation for each graph. We prove a central limit theorem for this omnibus embedding, and we show that this simultaneous embedding into a common space allows comparison of graphs without the need to perform pairwise alignments of graph embeddings. Experimental results demonstrate that the omnibus embedding improves upon existing methods, allowing better power in multiple-graph hypothesis testing and yielding better estimation in a latent position model."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,8 +43,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1214/20-EJS1720"
-url_preprint = "https://arxiv.org/abs/1804.00631"
+url_pdf = ""
+url_preprint = "https://arxiv.org/abs/1910.00423"
 url_code = ""
 url_dataset = ""
 url_project = ""
