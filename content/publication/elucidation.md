@@ -28,7 +28,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://doi.org/10.1017/nws.2019.23"
 url_preprint = "https://arxiv.org/abs/1808.04855"
 url_code = ""
 url_dataset = ""

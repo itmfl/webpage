@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "Estimating eigenvectors and low-dimensional subspaces is of central importance for numerous problems in statistics, computer science, and applied mathematics. This paper characterizes the behavior of perturbed eigenvectors for a range of signal-plus-noise matrix models encountered in both statistical and random matrix theoretic settings. We prove both first-order approximation results (i.e. sharp deviations) as well as second-order distributional limit theory (i.e. fluctuations). The concise methodology considered in this paper synthesizes tools rooted in two core concepts, namely (i) deterministic decompositions of matrix perturbations and (ii) probabilistic matrix concentration phenomena. We illustrate our theoretical results via simple simulation examples involving stochastic block model random graphs."
+url_pdf = "https://doi.org/10.1093/biomet/asy070"
 url_preprint = "http://arxiv.org/abs/1802.00381"
 url_code = ""
 url_dataset = ""
@@ -70,4 +70,3 @@ image = ""
 caption = ""
 
 +++
-Paper accepted August 2018.

@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://projecteuclid.org/euclid.aos/1564797852"
 url_preprint = "http://arxiv.org/abs/1705.10735"
 url_code = ""
 url_dataset = ""
